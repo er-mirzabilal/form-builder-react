@@ -1,0 +1,25 @@
+.ahfb-dropzone {
+  width: 100%;
+  border: 2px dashed lightgrey;
+  text-align: center;
+  text-align: -moz-center;
+  text-align: -webkit-center;
+  padding-top: 25px;
+  border-radius: 20px;
+  padding-bottom: 30px;
+  margin-top: 25px;
+}
+
+.ahfb-dropzone-label {
+  color: #5B5B7B;
+  font-weight: bold;
+}
+
+.ahfb-highlight {
+  border: 2px dashed;
+}
+
+.ahfb-file-upload-preview {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}

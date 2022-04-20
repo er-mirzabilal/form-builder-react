@@ -1,0 +1,19 @@
+.ahfb-dialog-content-root {
+  min-width: 700px;
+}
+.ahfb-categories-list-container {
+  border-right: 1px solid lightgray;
+}
+.ahfb-categories-list {
+  position: sticky !important;
+  top: 0;
+}
+.ahfb-categories-add-icon {
+  position: absolute !important;
+  right: 0;
+  z-index: 1;
+  margin-top: -7px !important;
+}
+.ahfb-categories-add-heading {
+  margin-top: 10px !important;
+}

@@ -1,0 +1,14 @@
+.ahfb-field-type-container {
+  height: 70px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.ahfb-action-buttons-container {
+  right: 20px;
+  position: absolute;
+}
